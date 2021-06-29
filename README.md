@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FF9778&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.Chaemin0215.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2FChaeMin0215&count_bg=%23FF9778&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=Chaemin0215&show_icons=true&hide_border=true)](https://github.com/Chaemin0215)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaemin0215&layout=compact)](https://github.com/Chaemin0215)
