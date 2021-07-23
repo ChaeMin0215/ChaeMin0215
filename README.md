@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning React.js & Node.js...
+- 🎓 I studied information and communication engineering at Myongji University.
+- :e-mail: My E-mail Address chaem0215@naver.com
 <!--
 **ChaeMin0215/ChaeMin0215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
